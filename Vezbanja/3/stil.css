@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(245, 245, 146);
+    font-family: Arial;
+}
+
+h1 {
+    color: maroon;
+}
+
+h2 {
+    color: red;
+}
+
+.klasa_naslov {
+    text-align: center;
+}
+
+.klasa_paragraf {
+    text-align: right;
+    font-size: 24px;
+}
+
+p {
+    color: purple;
+    font-size: 20px;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+    border: dotted 2px;
+}
+
+a {
+    color: orange;
+}
+
+a:visited {
+    color:green;
+}
+
+a:hover {
+    color: yellow;
+}
+
+.klasa_treci_naslov {
+    text-align: center;
+    color: green;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}

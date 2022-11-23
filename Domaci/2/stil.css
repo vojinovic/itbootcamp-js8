@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(247, 192, 120);
+}
+
+h2 {
+    text-align: center;
+    color: blue;
+}
+
+img {
+    border: 5px solid blue; 
+    outline: 3px solid red;
+}
+
+p {
+    color: blue;
+}
+
+a {
+    color: red;
+}
+
+a:hover {
+    color: green;
+}
+
+.font_boja {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
